@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, I/m LokiObahoshe 👋
+
+- 🌱 I’m currently learning programming languages, such as HTML, CSS, C#, JavaScript, and Python.
+
+I love to play video games:
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 <!--
 **LokiObahoshe/LokiObahoshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
