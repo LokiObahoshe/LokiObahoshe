@@ -11,9 +11,10 @@ I am really into old Nintendo styled games, for example:
 ![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)
 <br>
 Tech Stack:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,cs,py,unity,vscode)](https://skillicons.dev)
 <br>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=The+code+doesn't+works...+Why?..+Now+the+code+works...+Why?..&type=horizontal&theme=dracula&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=The+code+doesn't+works...+Why?..+\nNow+the+code+works...+Why?..&type=horizontal&theme=dracula&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 <!--
