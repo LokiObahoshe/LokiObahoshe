@@ -7,6 +7,7 @@
 <p>- 🌱 I’m currently learning programming languages, such as HTML, CSS, C#, JavaScript, and Python.</p>
 <p>- ⚡ Fun fact: I am obsessed with vintage Nintendo consoles/cartridges (especially Pokémon related games) and love to collect as many as I can. The Gameboy Advance SP and DS Lite are personal favorites of mine.</p>
 <br>
+
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
 ![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)  
