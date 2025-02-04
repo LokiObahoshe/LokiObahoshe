@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1>Hello world, I'm LokiObahoshe 👋</h1>
-[![LokiObahoshe!](images/githubbanner.gif)](https://github.com/LokiObahoshe)
+![LokiObahoshe](https://github.com/LokiObahoshe/LokiObahoshe/blob/main/images/githubbanner.gif)
 
 <p>- 🔭 I’m currently working on 2d animations for Multi Animator Projects as a side hobby.</p>
 <p>- 🌱 I’m currently learning programming languages, such as HTML, CSS, C#, JavaScript, and Python.</p>
-<p>- ⚡ Fun fact: I am obssesed with vintage Nintendo consoles/cartridges (especially Pokémon related games) and love to collect as many as I can. The Gameboy Advance SP and DS Lite are personal favorites of mine.</p>
+<p>- ⚡ Fun fact: I am obsessed with vintage Nintendo consoles/cartridges (especially Pokémon related games) and love to collect as many as I can. The Gameboy Advance SP and DS Lite are personal favorites of mine.</p>
 
 <hr>
 
