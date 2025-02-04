@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning programming languages, such as HTML, CSS, C#, JavaScript, and Python.
 
+<hr>
+
 I am really into old Nintendo styled games, for example:
 <br>
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
