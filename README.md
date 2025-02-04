@@ -2,8 +2,11 @@
 
 - 🌱 I’m currently learning programming languages, such as HTML, CSS, C#, JavaScript, and Python.
 
-I love to play video games:
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+I am really into old Nintendo styled games, for example:
+<br>
+![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
+![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
+![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)
 
 <!--
 **LokiObahoshe/LokiObahoshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
