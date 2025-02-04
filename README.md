@@ -1,9 +1,7 @@
 <h1 align="center">Hello, I'm LokiObahoshe 👋</h1>
 
-<p align="center">
-  - 🔭 I’m currently working on a video game featuring my cat, Caesar using Unity.
-  - 🌱 I’m currently learning programming languages, such as HTML, CSS, C#, JavaScript, and Python.
-</p>
+<p align="center">- 🔭 I’m currently working on a video game featuring my cat, Caesar using Unity.</p>
+<p align="center">- 🌱 I’m currently learning programming languages, such as HTML, CSS, C#, JavaScript, and Python.</p>
 
 <hr>
 
