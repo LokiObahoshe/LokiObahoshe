@@ -17,7 +17,7 @@
 <h3>My Tech Stack:</h3>
 <br>
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,cs,py,unity,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,py,unity,vscode)](https://skillicons.dev)
 <br>
 <br>
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=The+code+doesn't+works...+Why?..+Now+the+code+works...+Why?..&type=horizontal&theme=dracula&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
