@@ -51,6 +51,7 @@
 <ul>
   <li><a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a> (<a href="https://github.com/LokiObahoshe/WDD330FinalProject">Repo</a>)</li>
   <li><a href="https://lokiobahoshe.github.io/wdd231/project/">TrothMoth</a> (<a href="https://github.com/LokiObahoshe/wdd231/tree/main/project">Repo</a>)</li>
+  <li><a href="https://team-777-handcraft-haven.vercel.app/">Team Project: Handcraft Haven</a> (<a href="https://github.com/RayVenShellhart/cse341_final">Repo</a>)</li>
 </ul>
 
 <br>
