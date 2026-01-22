@@ -1,10 +1,4 @@
 <div align="center">
-  
-<h3>Badges:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=LokiObahoshe&show_icons=true&theme=tokyonight" />
-<br>
-<hr>
-<br>
 <!--[![LokiObahoshe](https://github.com/LokiObahoshe/LokiObahoshe/blob/main/images/githubbanner.gif)](https://github.com/lokiobahoshe)-->
 <img src="images/githubbanner.gif" alt="banner">
 <br>
@@ -58,6 +52,11 @@
   <li><a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a> (<a href="https://github.com/LokiObahoshe/WDD330FinalProject">Repo</a>)</li>
   <li><a href="https://lokiobahoshe.github.io/wdd231/project/">TrothMoth</a> (<a href="https://github.com/LokiObahoshe/wdd231/tree/main/project">Repo</a>)</li>
 </ul>
+
+<br>
+<h3>Github Stats:</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=LokiObahoshe&show_icons=true&theme=tokyonight" />
+<br>
 
 <hr>
 
