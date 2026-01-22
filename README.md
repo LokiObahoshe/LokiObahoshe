@@ -1,5 +1,5 @@
 <h3>Badges:</h3>
-![Branch Status](https://github.com/LokiObahoshe/LokiObahoshe/actions/workflows/main.yml/badge.svg?branch=feature-branch)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokiObahoshe&show_icons=true&theme=tokyonight)
 
 <div align="center">
 <br>
