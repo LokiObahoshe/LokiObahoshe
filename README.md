@@ -2,6 +2,9 @@
 <!--[![LokiObahoshe](https://github.com/LokiObahoshe/LokiObahoshe/blob/main/images/githubbanner.gif)](https://github.com/lokiobahoshe)-->
 <img src="images/githubbanner.gif" alt="banner">
 <br>
+
+<br>
+<p>Hello world, I'm Rebecca Sonderegger! 👋 I'm a student at Brigham Young University-Idaho who loves to learn more about topics around computer science.</p>
 <br>
 
 <p>- 🔭 I’m currently working on 2d animations for Multi Animator Projects as a side hobby</p>
