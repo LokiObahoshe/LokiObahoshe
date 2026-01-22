@@ -36,15 +36,21 @@
 
 <h3>Skills:</h3>
 <ul>
-  <li>Problem solving
+  <li>Problem solving</li>
   <li>Github</li>
-  <li>Visual Studio Code</li>
   <li>Flipaclip</li>
   <li>Unity</li>
   <li>Visual Studio Code</li>
+  <li>C#</li>
 </ul>
 
 <br>
+
+<h3>My Tech Stack:</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,py,unity,vscode)](https://skillicons.dev)
+
+<br>
+
 <h3>Favorite Projects:</h3>
 <ul>
   <li><a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a> (<a href="https://github.com/LokiObahoshe/WDD330FinalProject">Repo</a>)</li>
@@ -54,11 +60,6 @@
 <hr>
 
 <div align="center">
-<h3>My Tech Stack:</h3>
-<br>
-  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,py,unity,vscode)](https://skillicons.dev)
-<br>
 <br>
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=The+code+doesn't+works...+Why?..+Now+the+code+works...+Why?..&type=horizontal&theme=dracula&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
