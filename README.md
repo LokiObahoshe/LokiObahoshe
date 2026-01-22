@@ -3,15 +3,13 @@
 
 <div align="center">
 <br>
-<p>Hello world, I'm Rebecca Sonderegger 👋 I'm a student at Brigham Young University-Idaho interested who loves to learn more about topics around computer science. Welcome to my profile!</p>
-<br>
 <!--[![LokiObahoshe](https://github.com/LokiObahoshe/LokiObahoshe/blob/main/images/githubbanner.gif)](https://github.com/lokiobahoshe)-->
 <img src="images/githubbanner.gif" alt="banner">
 <br>
 <br>
 
 <p>- 🔭 I’m currently working on 2d animations for Multi Animator Projects as a side hobby</p>
-<p>- 🌱 I’m currently learning programming languages, such as HTML, CSS, C#, JavaScript, and Python</p>
+<p>- 🌱 I’m currently learning more about programming languages, such as HTML, CSS, C#, JavaScript, and Python</p>
 <p>- ⚡ Fun fact: I am obsessed with vintage Nintendo consoles/cartridges (especially Pokémon related games) and love to collect as many as I can. The Gameboy Advance SP and DS Lite are personal favorites of mine</p>
 
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
