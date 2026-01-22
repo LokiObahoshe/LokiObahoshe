@@ -1,13 +1,29 @@
+<p>
+  Badges:
+  - ![Branch Status](https://github.com/LokiObahoshe/LokiObahoshe/actions/workflows/main.yml/badge.svg?branch=feature-branch)
+</p>
+
 <div align="center">
 
-<h1>Hello world, I'm LokiObahoshe 👋</h1>
+<h1>Hello world, I'm Rebecca Sonderegger 👋 I'm a student at Brigham Young University-Idaho interested who loves to learn more about topics around computer science. Welcome to my profile!</h1>
 <!--[![LokiObahoshe](https://github.com/LokiObahoshe/LokiObahoshe/blob/main/images/githubbanner.gif)](https://github.com/lokiobahoshe)-->
 <img src="images/githubbanner.gif" alt="banner">
 
-<p>- 🔭 I’m currently working on 2d animations for Multi Animator Projects as a side hobby.</p>
-<p>- 🌱 I’m currently learning programming languages, such as HTML, CSS, C#, JavaScript, and Python.</p>
-<p>- ⚡ Fun fact: I am obsessed with vintage Nintendo consoles/cartridges (especially Pokémon related games) and love to collect as many as I can. The Gameboy Advance SP and DS Lite are personal favorites of mine.</p>
+<p>- 🔭 I’m currently working on 2d animations for Multi Animator Projects as a side hobby</p>
+<p>- 🌱 I’m currently learning programming languages, such as HTML, CSS, C#, JavaScript, and Python</p>
+<p>- ⚡ Fun fact: I am obsessed with vintage Nintendo consoles/cartridges (especially Pokémon related games) and love to collect as many as I can. The Gameboy Advance SP and DS Lite are personal favorites of mine</p>
 <br>
+
+<p>
+  - Proficient in: HTML, CSS, JavaScript, Python, Node.js
+  - Skills: Problem solving, Github, Visual Studio Code, Flipaclip, Unity, Visual Studio Code
+</p>
+
+<p>
+  My Favorite Projects:
+  - <a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a>
+  - <a href="https://lokiobahoshe.github.io/wdd231/project/">TrothMoth</a>
+</p>
 
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
