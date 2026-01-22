@@ -42,8 +42,8 @@
 <br>
 <h3>Favorite Projects:</h3>
 <ul>
-  <li><a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a></li>
-  <li><a href="https://lokiobahoshe.github.io/wdd231/project/">TrothMoth</a></li>
+  <li><a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a>(<a href="https://github.com/LokiObahoshe/WDD330FinalProject">Repo</a>)</li>
+  <li><a href="https://lokiobahoshe.github.io/wdd231/project/">TrothMoth(<a href="https://github.com/LokiObahoshe/wdd231/tree/main/project">Repo</a>)</a></li>
 </ul>
 
 <hr>
