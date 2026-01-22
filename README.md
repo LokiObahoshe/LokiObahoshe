@@ -15,14 +15,16 @@
 <br>
 
 <p>
-  - Proficient in: HTML, CSS, JavaScript, Python, Node.js
-  - Skills: Problem solving, Github, Visual Studio Code, Flipaclip, Unity, Visual Studio Code
+  <ul>
+    <li>Proficient in: HTML, CSS, JavaScript, Python, Node.js</li>
+    <li>Skills: Problem solving, Github, Visual Studio Code, Flipaclip, Unity, Visual Studio Code</li>
+  </ul>
 </p>
 
 <p>
-  My Favorite Projects:
-  - <a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a>
-  - <a href="https://lokiobahoshe.github.io/wdd231/project/">TrothMoth</a>
+  Favorite Projects:
+  <ul><a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a></ul>
+  <ul><a href="https://lokiobahoshe.github.io/wdd231/project/">TrothMoth</a></ul>
 </p>
 
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
