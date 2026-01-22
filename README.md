@@ -17,7 +17,7 @@
 <p>- Proficient in: HTML, CSS, JavaScript, Python, Node.js</p>
 <p>- Skills: Problem solving, Github, Visual Studio Code, Flipaclip, Unity, Visual Studio Code</p>
 
-<p>Favorite Projects:</p>
+<h4>Favorite Projects:</h4>
 <p>- <a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a></p>
 <p>- <a href="https://lokiobahoshe.github.io/wdd231/project/">TrothMoth</a></ul></p>
 
