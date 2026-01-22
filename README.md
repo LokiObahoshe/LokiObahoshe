@@ -1,7 +1,5 @@
-<p>
-  Badges:
-  - ![Branch Status](https://github.com/LokiObahoshe/LokiObahoshe/actions/workflows/main.yml/badge.svg?branch=feature-branch)
-</p>
+<h3>Badges:</h3>
+![Branch Status](https://github.com/LokiObahoshe/LokiObahoshe/actions/workflows/main.yml/badge.svg?branch=feature-branch)
 
 <div align="center">
 
@@ -14,16 +12,19 @@
 <p>- ⚡ Fun fact: I am obsessed with vintage Nintendo consoles/cartridges (especially Pokémon related games) and love to collect as many as I can. The Gameboy Advance SP and DS Lite are personal favorites of mine</p>
 <br>
 
-<p>- Proficient in: HTML, CSS, JavaScript, Python, Node.js</p>
-<p>- Skills: Problem solving, Github, Visual Studio Code, Flipaclip, Unity, Visual Studio Code</p>
-
-<h4>Favorite Projects:</h4>
-<p>- <a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a></p>
-<p>- <a href="https://lokiobahoshe.github.io/wdd231/project/">TrothMoth</a></ul></p>
-
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
 ![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)  
+<br>
+
+<h3>Proficient in:</h3>
+<p>HTML, CSS, JavaScript, Python, Node.js</p>
+<h3>Skills:</h3>
+<p>Problem solving, Github, Visual Studio Code, Flipaclip, Unity, Visual Studio Code</p>
+
+<h3>Favorite Projects:</h3>
+<p>- <a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a></p>
+<p>- <a href="https://lokiobahoshe.github.io/wdd231/project/">TrothMoth</a></ul></p>
 
 <hr>
 <h3>My Tech Stack:</h3>
