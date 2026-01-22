@@ -2,10 +2,12 @@
 ![Branch Status](https://github.com/LokiObahoshe/LokiObahoshe/actions/workflows/main.yml/badge.svg?branch=feature-branch)
 
 <div align="center">
-
+<br>
 <p>Hello world, I'm Rebecca Sonderegger 👋 I'm a student at Brigham Young University-Idaho interested who loves to learn more about topics around computer science. Welcome to my profile!</p>
+<br>
 <!--[![LokiObahoshe](https://github.com/LokiObahoshe/LokiObahoshe/blob/main/images/githubbanner.gif)](https://github.com/lokiobahoshe)-->
 <img src="images/githubbanner.gif" alt="banner">
+<br>
 
 <p>- 🔭 I’m currently working on 2d animations for Multi Animator Projects as a side hobby</p>
 <p>- 🌱 I’m currently learning programming languages, such as HTML, CSS, C#, JavaScript, and Python</p>
@@ -29,10 +31,21 @@
 <br>
 
 <h3>Skills:</h3>
-<p>Problem solving, Github, Visual Studio Code, Flipaclip, Unity, Visual Studio Code</p>
+<ul>
+  <li>Problem solving
+  <li>Github</li>
+  <li>Visual Studio Code</li>
+  <li>Flipaclip</li>
+  <li>Unity</li>
+  <li>Visual Studio Code</li>
+</ul>
+
 <br>
 <h3>Favorite Projects:</h3>
-<p><a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a>, <a href="https://lokiobahoshe.github.io/wdd231/project/">TrothMoth</a></ul></p>
+<ul>
+  <li><a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a></li>
+  <li><a href="https://lokiobahoshe.github.io/wdd231/project/">TrothMoth</a></li>
+</ul>
 
 <hr>
 
