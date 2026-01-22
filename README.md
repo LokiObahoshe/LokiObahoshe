@@ -1,5 +1,5 @@
 <h3>Badges:</h3>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokiObahoshe&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=LokiObahoshe&show_icons=true&theme=tokyonight" />
 
 <div align="center">
 <br>
@@ -47,7 +47,7 @@
 <br>
 
 <h3>My Tech Stack:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,py,unity,vscode)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=js,html,css,cs,py,unity,vscode" />
 
 <br>
 
@@ -60,8 +60,7 @@
 <hr>
 
 <div align="center">
-<br>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=The+code+doesn't+works...+Why?..+Now+the+code+works...+Why?..&type=horizontal&theme=dracula&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+  <img src="https://quotes-github-readme.vercel.app/api?quote=The+code+doesn't+work...+Why?...+Now+the+code+works...+Why?...&type=horizontal&theme=dracula&border=true" />
 </div>
 
 
