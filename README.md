@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<h1>Hello world, I'm Rebecca Sonderegger 👋 I'm a student at Brigham Young University-Idaho interested who loves to learn more about topics around computer science. Welcome to my profile!</h1>
+<p>Hello world, I'm Rebecca Sonderegger 👋 I'm a student at Brigham Young University-Idaho interested who loves to learn more about topics around computer science. Welcome to my profile!</p>
 <!--[![LokiObahoshe](https://github.com/LokiObahoshe/LokiObahoshe/blob/main/images/githubbanner.gif)](https://github.com/lokiobahoshe)-->
 <img src="images/githubbanner.gif" alt="banner">
 
@@ -15,10 +15,19 @@
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
 ![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)  
 <hr>
+</div>
 
 <h3>Proficient in:</h3>
-<p>HTML, CSS, JavaScript, Python, Node.js</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>Node.js</li>
+</ul>
+
 <br>
+
 <h3>Skills:</h3>
 <p>Problem solving, Github, Visual Studio Code, Flipaclip, Unity, Visual Studio Code</p>
 <br>
@@ -26,6 +35,8 @@
 <p><a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a>, <a href="https://lokiobahoshe.github.io/wdd231/project/">TrothMoth</a></ul></p>
 
 <hr>
+
+<div align="center">
 <h3>My Tech Stack:</h3>
 <br>
   
